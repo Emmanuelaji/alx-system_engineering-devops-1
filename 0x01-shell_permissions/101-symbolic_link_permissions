@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown ln -s _hello -hR vincent:staff
+sudo chown -lR _hello vincent:staff .
